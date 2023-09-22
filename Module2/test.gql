@@ -1,0 +1,7 @@
+type Class {
+  _id: ID
+  name: String
+  building: String
+  creditHours: Int
+  professor: Professor
+}
